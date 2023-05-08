@@ -1,16 +1,11 @@
-# fsdfs
+#Login Firebase
 
-A new Flutter project.
+In this proyect I create a proyect to log in with firebase and:
 
-## Getting Started
+- Google Auth
+- Email verification
+- Forms
+- Forms validation
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/67846639/236880006-99821b67-ef16-432a-b5bc-be18001e5ccd.png" width="300" height="600">
